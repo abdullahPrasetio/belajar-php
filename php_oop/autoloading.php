@@ -1,0 +1,1 @@
+<!-- memanggil class (file ) tanpa harus menggunakan require -->
